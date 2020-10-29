@@ -11,7 +11,7 @@
   <strong><a href="https://yangchaoyi.vip/">前端博客网站</a></strong>  
 </p> -->
 <a href="https://github.com/codinglzt"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/codinglzt/count.svg" /></a>
-
+<!--
 ##  [Welcome To 超逸の博客](https://github.com/codinglzt)
 <a href="https://github.com/codinglzt"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [小狮子前端笔记仓库](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes)
@@ -20,13 +20,10 @@
 - 👨🏻‍💻  [【亡羊补牢】挑战数据结构与算法](https://blog.csdn.net/weixin_42429718/category_10357778.html)
 - 👩🏻‍💻  [【亡羊补牢】计算机网络灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357781.html)
 - 👨🏻‍💻  [【亡羊补牢】操作系统灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357782.html)
-- 👨🏻‍💻  [博客搭建教程](https://github.com/Chocolate1999/hexo-blog-lionkk)
-- 👩🏻‍💻  [Vue全家桶系列](https://blog.csdn.net/weixin_42429718/category_9656024.html)
-
 
 
 座右铭：学如逆水行舟，不进则退！
-
+-->
 <!--
 **Chocolate1999/Chocolate1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -83,6 +80,6 @@ Here are some ideas to get you started:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="left">
-<img alt="ouuan's github stats" height='250' width='500' src="https://github-readme-stats.vercel.app/api?username=codinglzt&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='250' src="https://github-readme-stats.vercel.app/api?username=codinglzt&show_icons=true&include_all_commits=true">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglzt">
 </p>
