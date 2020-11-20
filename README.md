@@ -10,7 +10,8 @@
   <strong><a href="https://juejin.im/user/2981531267112520">掘金</a></strong>  |
   <strong><a href="https://yangchaoyi.vip/">前端博客网站</a></strong>  
 </p> -->
-<a href="https://github.com/codinglzt"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/codinglzt/count.svg" /></a>
+<div><a href="https://github.com/codinglzt"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/codinglzt/count.svg" /></a></div>
+<div align="center"><a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a></div>
 <!--
 ##  [Welcome To 超逸の博客](https://github.com/codinglzt)
 <a href="https://github.com/codinglzt"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
@@ -76,7 +77,6 @@ Here are some ideas to get you started:
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="left">
