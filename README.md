@@ -11,7 +11,6 @@
   <strong><a href="https://yangchaoyi.vip/">前端博客网站</a></strong>  
 </p> -->
 <a href="https://github.com/codinglzt"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/codinglzt/count.svg" /></a>
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 <!--
 ##  [Welcome To 超逸の博客](https://github.com/codinglzt)
 <a href="https://github.com/codinglzt"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
