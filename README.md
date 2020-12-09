@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="left">
-<img alt="ouuan's github stats" height='250' src="https://github-readme-stats.vercel.app/api?username=codinglzt&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglzt">
+<img alt="ouuan's github stats" height='250' width='600' src="https://github-readme-stats.vercel.app/api?username=codinglzt&show_icons=true&include_all_commits=true">
 </p>
+
+<!-- <img alt="ouuan's github stats" height='230' width='600' src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglzt"> -->
